@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec08df4f-3518-48b5-97f1-a9b3ddff0ef5" name="Changes" comment="" />
+    <list default="true" id="7776b8d7-1689-4ab2-8634-e9cae7db725f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,25 +13,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2qxv4X2R3cgzSknKyzGjx6WnMOd" />
+  <component name="ProjectId" id="2qy0jJhb7osjjVR7JHxhmlKsWMC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ConversorMonedas.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/m4r10/Downloads/gson-2.11.0.jar",
+    "onboarding.tips.debug.path": "/home/m4r10/IdeaProjects/ConversorMoneda/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -40,11 +41,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec08df4f-3518-48b5-97f1-a9b3ddff0ef5" name="Changes" comment="" />
-      <created>1735616851846</created>
+      <changelist id="7776b8d7-1689-4ab2-8634-e9cae7db725f" name="Changes" comment="" />
+      <created>1735619645331</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1735616851846</updated>
+      <updated>1735619645331</updated>
     </task>
     <servers />
   </component>
